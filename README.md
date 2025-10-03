@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justynigam" alt="justynigam" /></a> </p>
 
-- 🌱 I’m currently learning **Java and C++ , Data Science , Android Development**
+- 🌱 I’m currently learning **Java and C++ , Data Science , Machine Learning - Federated Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/justynigam](https://github.com/justynigam)
 
-- 📫 How to reach me **nigamreigns7@gmail.com**
+- 📫 How to reach me **nigamlenka10@gmail.com**
 
 - ⚡ Fun fact **I always Love to See Time..!**
 
