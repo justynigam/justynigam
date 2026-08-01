@@ -17,20 +17,20 @@
 
 <h3 id="terminal">🖥️ Developer Mode — <code>whoami</code></h3>
 
-```bash
-nigam@vitb:~$ whoami
-> Nigam Prasad Lenka — B.Tech CSE, VIT Bhopal (2023–2027)
-> Based in Hyderabad, Telangana, India
+<pre>
+<code>nigam@vitb:~$ whoami
+&gt; Nigam Prasad Lenka — B.Tech CSE, VIT Bhopal (2023–2027)
+&gt; Based in Hyderabad, Telangana, India
 
 nigam@vitb:~$ cat status.txt
-> 🌱 Leveling up in: Java, C++, Data Science, Federated Learning
-> 💼 Recently shipped: Jenkins CI memory-leak fix (7M+ devs impacted)
-> 🎯 Currently building: RegTech + AI-agent systems
-> ⚡ Fun fact: I always love to see time..!
+&gt; 🌱 Leveling up in: Java, C++, Data Science, Federated Learning
+&gt; 💼 Recently shipped: Jenkins CI memory-leak fix (7M+ devs impacted)
+&gt; 🎯 Currently building: RegTech + AI-agent systems
+&gt; ⚡ Fun fact: I always love to see time..!
 
 nigam@vitb:~$ ./run_current_quest.sh
-> [ACTIVE] Optimizing distributed systems & explainable ML pipelines...
-```
+&gt; [ACTIVE] Optimizing distributed systems &amp; explainable ML pipelines...</code>
+</pre>
 
 ---
 
@@ -102,24 +102,55 @@ nigam@vitb:~$ ./run_current_quest.sh
 | **Oracle Certified Professional** | 📜 APEX Cloud Developer, AI Vector Search, Generative AI | Certified |
 | **NPTEL Elite (IIT Madras)** | 🎓 Top 10% — Intro to Machine Learning | Elite tier |
 
+
+
+</td>
+</tr>
+</table>
+
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%90%8D%20Snake%20Game%20%E2%80%94%20Contribution%20Grid-000000?style=for-the-badge&color=39FF14"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justynigam/justynigam/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justynigam/justynigam/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/justynigam/justynigam/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-%F0%9F%93%88%20Live%20Stats%20%E2%80%94%20HUD-000000?style=for-the-badge&color=39FF14"/>
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=justynigam&show_icons=true&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justynigam&layout=compact&hide_border=true" alt="top langs"/>
-</p>
+<pre align="center">
+<code>nigam@vitb:~$ ./scan_player_stats.sh
+&gt; [OK] Connection established to github.com/justynigam
+&gt; [OK] Rendering HUD panel...</code>
+</pre>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justynigam&hide_border=true" alt="streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justynigam&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=justynigam&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&border_color=39FF14&border_radius=10" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justynigam&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=39FF14&border_radius=10" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=justynigam&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&border=39FF14&border_radius=10" alt="streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=justynigam&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="trophies"/>
+
+</div>
+
+<pre align="center">
+<code>nigam@vitb:~$ echo "XP synced. Keep shipping."
+&gt; ✔ HUD panel loaded successfully</code>
+</pre>
 
 ---
 
